@@ -1,7 +1,7 @@
 # icecream-powerbi
 
-## Analyzing sales data is crucial for companies to understand and improve their performance. 
-## This process involves collecting, processing, and interpreting sales figures and related metrics. Here’s a detailed description:
+## Introduction
+Analyzing sales data is crucial for companies to understand and improve their performance. This process involves collecting, processing, and interpreting sales figures and related metrics. Here’s a detailed description:
 
 * Performance Monitoring: Regular analysis helps track key performance indicators (KPIs) such as total sales, sales growth, and profit margins. This monitoring allows businesses to see how they are performing over time and against their goals.
 
