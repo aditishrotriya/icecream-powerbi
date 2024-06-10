@@ -1,4 +1,4 @@
-# icecream-powerbi
+# Icecream sales data analysis using PowerBI
 
 ## Introduction
 Analyzing sales data is crucial for companies to understand and improve their performance. This process involves collecting, processing, and interpreting sales figures and related metrics. Here’s a detailed description:
@@ -7,7 +7,7 @@ Analyzing sales data is crucial for companies to understand and improve their pe
 
 * Trend Identification: By examining sales data over different periods, companies can identify trends and patterns. For instance, they can pinpoint seasonal fluctuations, rising or declining product demands, and emerging market trends. Recognizing these patterns helps in forecasting future sales and preparing for market changes.
 
-* Customer Insights: Sales data analysis provides valuable insights into customer behavior and preferences. Companies can understand which products are most popular, identify high-value customers, and analyze purchasing patterns. This information is essential for tailoring marketing strategies and improving customer satisfaction.
+* Customer Insights: Sales data analysis provides valuable insights into customer behaviour and preferences. Companies can understand which products are most popular, identify high-value customers, and analyze purchasing patterns. This information is essential for tailoring marketing strategies and improving customer satisfaction.
 
 * Revenue Growth: Detailed sales analysis helps identify the drivers of revenue growth. Companies can determine which products or services contribute most to revenue, evaluate the effectiveness of sales campaigns, and explore new revenue opportunities.
 
